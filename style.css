@@ -11,15 +11,15 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 960px; 
-  padding: 0 10px; 
+  max-width: 960px;
+  padding: 0 10px;
 }
 
 header {
   background: url(images/bg.jpg) no-repeat center center;
   background-size: cover;
   height: 800px;
-  text-align: center; 
+  text-align: center;
 }
 
 header .container {
@@ -55,8 +55,8 @@ header .btn {
 
 header .btn:hover {
   background: #117bff;
-  cursor: pointer; 
-  transition: background .5s;  
+  cursor: pointer;
+  transition: background .5s;
 }
 
 nav {
@@ -76,13 +76,13 @@ nav li {
   font-size: 1.1em;
   line-height: 80px;
   padding: 0 10px;
-  transition: background .5s; 
+  transition: background .5s;
 }
 
 nav li:hover {
   background: #117bff;
-  cursor: pointer; 
-  transition: background .5s;  
+  cursor: pointer;
+  transition: background .5s;
 }
 
 .supporting {
@@ -107,7 +107,7 @@ nav li:hover {
 .jumbotron {
   background: url(images/jumbotron_bg.jpg) no-repeat center center;
   background-size: cover;
-  height: 600px; 
+  height: 600px;
   text-align: right;
 }
 
@@ -136,8 +136,8 @@ nav li:hover {
 
 .jumbotron .btn:hover {
   background: #117bff;
-  cursor: pointer; 
-  transition: background .5s;  
+  cursor: pointer;
+  transition: background .5s;
 }
 
 footer {
@@ -171,7 +171,3 @@ footer {
     width: 100%;
   }
 }
-
-
-
-
