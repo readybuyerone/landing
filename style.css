@@ -1,4 +1,4 @@
-/*-- Make a Website Projects No. 2 Innovation Cloud */
+/*-- Ready Buyer One */
 html, body {
   margin: 0;
   padding: 0;
@@ -37,20 +37,22 @@ header h1 {
 
 header p {
   color: #fff;
+  font-size: 1.4em;
   font-weight: 500;
   letter-spacing: 8px;
-  margin: 0 0 40px;
+  margin: 40px 0 60px;
   text-transform: uppercase;
 }
 
 header .btn {
   color: #fff;
-  background: #000;
+  background: #00deee;
   font-size: 1.4em;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 2px;
   padding: 10px 40px;
   transition: background .5s;
+  border-radius:50px;
 }
 
 header .btn:hover {
@@ -80,7 +82,7 @@ nav li {
 }
 
 nav li:hover {
-  background: #117bff;
+  background: #ff0000;
   cursor: pointer;
   transition: background .5s;
 }
@@ -105,7 +107,7 @@ nav li:hover {
 
 /* Jumbotron */
 .jumbotron {
-  background: url(images/jumbotron_bg.jpg) no-repeat center center;
+  background: url(images/community_bg.jpg) no-repeat center center;
   background-size: cover;
   height: 600px;
   text-align: right;
@@ -117,17 +119,18 @@ nav li:hover {
 }
 
 .jumbotron h2 {
-  color: #fff;
+  color: #ffffff;
 }
 
 .jumbotron p {
-  color: #fff;
+  color: #ffffff;
+  font-size: 1.6em;
 }
 
 .jumbotron .btn {
-  color: #fff;
+  color: #ffffff;
   background: #000;
-  font-size: 1.4em;
+  font-size: 1.6em;
   font-weight: 300;
   letter-spacing: 2px;
   padding: 10px 40px;
@@ -135,7 +138,7 @@ nav li:hover {
 }
 
 .jumbotron .btn:hover {
-  background: #117bff;
+  background: #ff0000;
   cursor: pointer;
   transition: background .5s;
 }
