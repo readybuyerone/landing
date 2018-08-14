@@ -62,7 +62,7 @@ header .btn:hover {
 }
 
 nav {
-  background-color: #000;
+  background-image: linear-gradient(to bottom, #000000, #ff0000);
 }
 
 nav ul {
@@ -92,8 +92,8 @@ nav li:hover {
 }
 
 .supporting img {
-  margin-top: 50px;
-  width: 90%;
+  margin-top: 0px;
+  width: 100%;
 }
 
 .supporting h1 {
