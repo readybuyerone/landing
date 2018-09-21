@@ -198,12 +198,12 @@ nav li:hover {
 
 .events .row ul li h4 a{
 	color: #000;
-	border-bottom: 3px solid #1a77ff;
+	border-bottom: 1px solid #1a77ff;
 }
 
 .events .row ul li h4 a:hover{
 	color: #1A77FF;
-	border-bottom: 3px solid #1a77ff;
+	border-bottom: 1px solid #1a77ff;
 	text-decoration: none;
 }
 
